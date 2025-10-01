@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grantwmurray
 - 👀 I’m interested in ... learning beginning code and UX design
 - 🌱 I’m currently learning ...Python and UX Design
-- 💞️ I’m looking to collaborate on ...¯\_(ツ)_/¯
+- 💞️ I’m looking to collaborate on ¯\_(ツ)_/¯
 - 📫 How to reach me ... Email 
 
 <!---
